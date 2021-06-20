@@ -126,6 +126,10 @@ nav i{
         padding: 1.5rem 7rem;
     }
 
+    .fa-chevron-left{
+        left: 1rem;
+    }
+
 
 }
 
