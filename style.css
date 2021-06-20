@@ -127,6 +127,7 @@ nav i{
     }
 
     .fa-chevron-left{
+        display: none;
         left: 1rem;
     }
 
