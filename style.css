@@ -116,6 +116,9 @@ nav i{
     .offices ul{
         padding: 1rem;
     }
+    .offices li{
+        padding: 1.5rem 7rem;
+    }
 
 
 }
