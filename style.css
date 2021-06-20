@@ -126,7 +126,7 @@ nav i{
         padding: 1.5rem 7rem;
     }
 
-    .fa-chevron-left{
+    i.fa-chevron-left{
         display: none;
         left: 1rem;
     }
