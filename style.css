@@ -96,7 +96,29 @@ nav i{
 
 
 
+@media (max-width: 900px) {
+    nav ul{
+        top: 11rem;
+    }
+    nav li{
+        display: inline-block;
+        padding: 0.2rem;
+        border-top: none;
+        border: rgba(0, 0, 0, 0.385) 1px solid;
+        text-align: center;
+        margin: 0;
+    }
 
+    nav i{
+        padding-right: 0.1rem;
+    }
+
+    .offices ul{
+        padding: 1rem;
+    }
+
+
+}
 
 
 
